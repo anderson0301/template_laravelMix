@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* =========================================================
+ hoge
+========================================================= */
+
+.sample {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  transform: translate(50%, 50%);
+}
